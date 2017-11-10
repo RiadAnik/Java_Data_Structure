@@ -27,3 +27,15 @@ Sample input and output
 ![capture](https://user-images.githubusercontent.com/21199518/32662440-c30f781a-c654-11e7-85a4-4b491e755e52.JPG)
 
 Link to learn about bubble sort : http://blog.anindyaspaul.com/2013/08/17/bubble-sort/
+
+
+## 2. CountSort.java :
+
+
+sample input and output
+
+
+![capture](https://user-images.githubusercontent.com/21199518/32666634-43eba924-c662-11e7-9e3b-47d67e902eff.JPG)
+
+
+Link to learn about counting sort :http://blog.anindyaspaul.com/2013/12/06/counting-sort/ 
