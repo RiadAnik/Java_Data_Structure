@@ -13,3 +13,10 @@ Sample input and output
 ![capture2](https://user-images.githubusercontent.com/21199518/32658875-471eda7e-c646-11e7-94b8-c58ab5494076.JPG)
 
 
+# Sorting :
+
+
+## 1.BubbleSort.java :
+
+
+Sample input and output
